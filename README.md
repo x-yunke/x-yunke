@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Xuyunke 👋
 
-<!--
-**x-yunke/x-yunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Manager** bridging the gap between user scenarios and engineering execution. 
 
-Here are some ideas to get you started:
+### 🌱 Currently Exploring
+- **Vibe Coding:** Leveraging LLMs to accelerate development workflows.
+- **RAG Architecture:** Evaluating Top-1/Top-5 retrieval accuracy and indexing strategies.
+- **AI-Native Paradigms:** Exploring the transition from legacy systems to AI-Native apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Past/Current Focus
+- Product strategies for **API Recommendation Assistants**.
+- Building automation scripts for L1 corpus data cleansing.
+
+*“Hardware is the constraint; software is the art; AI is the catalyst.”*
